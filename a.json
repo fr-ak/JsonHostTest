@@ -1,0 +1,16 @@
+{
+"status":200,
+"result":[
+{
+  "accountType":"CREDIT_CARD",
+  "creditCard":{
+"creditCardNumber":"2342342",
+"expiryMonth":09,
+"expiryYear":12,
+"ccv":234,
+"nameOnCard":"NAME CARD"
+  },
+  "bankAccount":{},
+}
+]
+}
